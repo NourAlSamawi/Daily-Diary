@@ -5,7 +5,7 @@ The Daily Diary Manager is a console application that allows users to manage a d
 
 ## How to Use
 1. Clone the repository.
-2. Navigate to the `Daily-Diary-Manager` directory.
+2. Navigate to the `Diary-Manager` directory.
 3. Run the application using a .NET CLI or Visual Studio.
 
 ### Available Commands:
